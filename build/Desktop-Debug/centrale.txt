@@ -1,0 +1,3 @@
+3;rades;345;0.6;2;solaire
+1;centrale1;23;0.6;2;solaire
+5;gjvj;231;0.6;23;solaire
