@@ -18,7 +18,7 @@ It provides a simple yet effective **Qt-based interface** to visualize and inter
 - Custom **Makefiles** included for building and running.
 
 ## 🖼️ Preview
-<img width="596" height="346" alt="Screenshot From 2025-09-13 15-54-04 - Copy" src="https://github.com/user-attachments/assets/f15325f4-25da-4b16-b587-b50d9d1f5ef7" />
+<img width="596" height="346" alt="Screenshot From 2025-09-13 15-54-04 - Copy" src="https://github.com/user-attachments/assets/e18eaa76-a52c-457f-8565-40bd74118000" />
 
 ## 🚀 How to Run
 ```bash
