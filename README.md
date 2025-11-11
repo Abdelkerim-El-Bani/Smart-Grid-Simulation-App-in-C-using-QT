@@ -31,3 +31,14 @@ make
 
 # Run
 ./MiniProjet
+
+## 📜 License
+This project is distributed under the [MIT License](./LICENSE).  
+© 2025 **Abdelkerim El Bani** — All rights reserved.
+---
+
+## 👤 Author
+**Abdelkerim El Bani**   
+Contact: abdelkerim.elbani@etudiant-enit.utm.tn
+
+---
